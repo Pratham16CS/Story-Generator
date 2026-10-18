@@ -29,7 +29,7 @@ From forgotten kingdoms and mythical forests to futuristic civilizations, your n
 ## ✨ Enter the Story
 
 <p align="center">
-  <img src="assets/landing-page.png" alt="StoryForge adventure creation screen" width="850" />
+  <img src="frontend/public/landing-page.png" alt="StoryForge adventure creation screen" width="850" />
   <br />
   <em>01 — The beginning of an adventure.</em>
 </p>
@@ -41,7 +41,7 @@ Give the engine a theme, setting, or concept. The generation pipeline transforms
 ### 🌿 II. Walk Your Own Path
 
 <p align="center">
-  <img src="assets/interactive-story.png" alt="Interactive branching story with player choices" width="850" />
+  <img src="frontend/public/interactive-story.png" alt="Interactive branching story with player choices" width="850" />
   <br />
   <em>02 — One story. Multiple possible destinies.</em>
 </p>
@@ -51,7 +51,7 @@ Every decision moves you to another node in the story graph. Explore alternate r
 ### 🏆 III. Discover Your Destiny
 
 <p align="center">
-  <img src="assets/story-ending.png" alt="Story conclusion and ending screen" width="850" />
+  <img src="frontend/public/story-ending.png" alt="Story conclusion and ending screen" width="850" />
   <br />
   <em>03 — Every journey reaches its own conclusion.</em>
 </p>
